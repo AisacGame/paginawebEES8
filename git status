@@ -1,0 +1,212 @@
+[33mcommit 439418bc4914f707818bbc32204dee0ce5ba9a95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mangel[m[33m)[m
+Author: aisacgame <angelbava2020@gmail.com>
+Date:   Fri Jun 21 04:45:37 2024 -0300
+
+    estructura principal de la pagina proyecto.html terminada
+
+[33mcommit 9656b48bc71b5369f8f9e81abe567ac69a3327a9[m[33m ([m[1;31morigin/angel[m[33m)[m
+Author: aisacgame <angelbava2020@gmail.com>
+Date:   Fri Jun 21 04:06:23 2024 -0300
+
+    organizando y modificando pagina proyecto#
+
+[33mcommit cd7cce9789c73bf4959426ff294b6cea4c1f42c8[m[33m ([m[1;31mupstream/angel[m[33m)[m
+Author: aisac <angelbava2020@gmail.com>
+Date:   Fri Jun 14 11:59:20 2024 -0300
+
+    creando base para la rama de proyectos
+
+[33mcommit 890137c588e807286859b0e3c54de3da51f001fc[m
+Author: aisac <angelbava2020@gmail.com>
+Date:   Fri Jun 7 11:30:52 2024 -0300
+
+    prueba para merge
+
+[33mcommit 0b7c10c49afb244fac45410b84b917b9ef2818b6[m
+Merge: a4a8a42 92c9fab
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue Jun 4 18:12:27 2024 -0300
+
+    resuelto conflicto estilos
+
+[33mcommit a4a8a429e082f00524f99f1e7ddb703d8c4601a4[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue Jun 4 18:09:39 2024 -0300
+
+    imagenes index
+    pagina historia
+
+[33mcommit 05daafe8eb450af80090bc24ef3b68dbb945ba23[m
+Merge: 0b6b9f3 35847b0
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue Jun 4 18:09:04 2024 -0300
+
+    Merge branch 'main' of https://github.com/JuanF1984/paginawebEES8
+
+[33mcommit 92c9fab8b140c231d372a65556e762e78f12e652[m
+Author: JuanF1984 <santixfunesx@gmail.com>
+Date:   Tue Jun 4 22:01:17 2024 +0200
+
+    modificaciones en footer
+
+[33mcommit 35847b052043d338270cae923c230851555bc9fb[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue Jun 4 16:25:22 2024 -0300
+
+    subir merge final
+
+[33mcommit 0b6b9f3af16257070c02ea9e301f8f84d2583916[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue Jun 4 16:25:12 2024 -0300
+
+    agregar pagina historia
+
+[33mcommit 5bf70f97f6fd357dfd223a296716dbbc1e8e00e4[m
+Merge: 504c296 ca5a6db
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 28 19:33:32 2024 -0300
+
+    Merge branch 'JMDG'
+
+[33mcommit 504c29632513fd399b49a72a7ce8c950154615d0[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 28 19:22:38 2024 -0300
+
+    modificaciones en las vinculaciones de estilo
+
+[33mcommit 31168627c4b3dd6450febb0fbf18d022685a99e0[m
+Merge: d75699e 30ea4e3
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 28 19:18:52 2024 -0300
+
+    Merge branch 'santi'
+
+[33mcommit d75699e64dcd8a7500e095c6c4df14eab73f457b[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 28 19:10:04 2024 -0300
+
+    Pruebas para "leer más"
+
+[33mcommit ca5a6dba6df96179f7f46150855b9f6bf061c0cf[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 28 18:04:34 2024 -0300
+
+    avance pagina principal
+
+[33mcommit 30ea4e3f4b048bf56cf19c39a0964d5edbb90cac[m
+Author: SanttFunes <santixfunesx@gmail.com>
+Date:   Tue May 28 21:18:34 2024 +0200
+
+    modificaciones de menu agregadas
+
+[33mcommit 5da93339749ea0da7d72546156071692843dea33[m
+Merge: 76093c0 6267ecd
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Mon May 27 10:16:32 2024 -0300
+
+    Merge branch 'main' of https://github.com/JuanF1984/paginawebEES8
+
+[33mcommit 76093c0e7e20d7ce35b54cd1b7a8d333da5728e2[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Mon May 27 10:16:22 2024 -0300
+
+    se agregan logos a la carpeta assets
+
+[33mcommit 6e27a7f4034562b989faf4ec0b33fa622b2ec192[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Thu May 23 14:56:33 2024 -0300
+
+    agregue iconos footer
+
+[33mcommit 90049f5dc1c132d84fbcc64e4e5b71190d592201[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 21 17:59:25 2024 -0300
+
+    Footer, historia izq, mision vision obj derecha.
+
+[33mcommit 5f930cc9d015831f71113d0b65540a712d19246a[m
+Author: SanttFunes <santixfunesx@gmail.com>
+Date:   Tue May 21 22:59:01 2024 +0200
+
+    modificaciones en el menu
+
+[33mcommit 6267ecdea94156039ba76944aa51b4f02b3ff95d[m
+Author: JuanF1984 <157741780+JuanF1984@users.noreply.github.com>
+Date:   Fri May 17 10:31:40 2024 -0300
+
+    Update index.html
+
+[33mcommit 9976d2af2f2dea21d929c7504caf316e3ec805a5[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Fri May 17 10:29:20 2024 -0300
+
+    modificaciones en styles
+
+[33mcommit 5b27e339522fd7dcfefc9ec6bb8a8f94a8d7b069[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Fri May 17 10:28:33 2024 -0300
+
+    organizacion de CSS en forma local
+
+[33mcommit c1d95b0bfdf850f345d09d54440d8cf788c5b70e[m
+Author: SanttFunes <santixfunesx@gmail.com>
+Date:   Tue May 14 23:06:15 2024 +0200
+
+    modifique el menu-submenu
+
+[33mcommit 1c73d0ae8042aa88fe04e2e251c6fb0728bcb317[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 14 18:00:58 2024 -0300
+
+    modificaciones en el home: header rojo, centrar nav. divs mision imagenes.
+
+[33mcommit 9e7c1645c23e066c91308ad200fba51a9e715d37[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 7 21:51:59 2024 -0300
+
+    modificaciones de estilo en docentes.css
+
+[33mcommit 4bdf0a00a95f075998933ac43cd751e7d2a6627c[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 7 21:46:56 2024 -0300
+
+    se agrega docente.html con galeria de fotos de prueba
+
+[33mcommit 4ecb7037801362ab26bb887f834bbb102b174123[m
+Merge: 5cc5861 8e95288
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 7 17:48:51 2024 -0300
+
+    Merge branch 'main' of https://github.com/JuanF1984/paginawebEES8
+
+[33mcommit 8e952887949e3ff2c5713da30eecc507f5c8b4cb[m
+Author: JuanF1984 <157741780+JuanF1984@users.noreply.github.com>
+Date:   Tue May 7 17:48:09 2024 -0300
+
+    Update style.css
+    
+    Se agrega transition
+
+[33mcommit 5cc586128c0c23020416f540ff0ea1115e8c236f[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 7 17:46:52 2024 -0300
+
+    borre transition
+
+[33mcommit eed4aac748226fac36b944053a58103546c614ee[m
+Author: metalman666 <juandorregogaleano@gmail.com>
+Date:   Tue May 7 17:45:33 2024 -0300
+
+    Se agrego hover al menu
+
+[33mcommit 7579971f9e80cd8641444a735bd923c66870fad7[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 7 15:44:07 2024 -0300
+
+    Modificaciones en Scripts - Se elimina primer prueba JS de carrousel
+
+[33mcommit 7d992b4d2b9b4f478c3c4fb654bd29ca2e343684[m
+Author: JuanF1984 <juanferreyra2684@gmail.com>
+Date:   Tue May 7 15:32:09 2024 -0300
+
+    Primer Commit - Pagina principal con carrousel y algunas modificaciones responsive
